@@ -4,3 +4,7 @@
 .black-shadow{
     filter: brightness(30%);
 }
+.icon-svg img{
+    width: 30px;
+    margin: 0 10px;
+}
