@@ -1,3 +1,6 @@
 .categories img{
     width: 150px;
 }
+.black-shadow{
+    filter: brightness(30%);
+}
