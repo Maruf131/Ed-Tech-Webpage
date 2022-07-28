@@ -1,10 +1,18 @@
-.categories img{
+.categories img {
     width: 150px;
 }
-.black-shadow{
+
+.black-shadow {
     filter: brightness(30%);
 }
-.icon-svg img{
+
+.icon-svg img {
     width: 30px;
+    margin: 0 10px;
+    filter: invert(1) sepia(1) saturate(20) hue-rotate(275deg);
+
+}
+.images img{
+    width: 60px;
     margin: 0 10px;
 }
